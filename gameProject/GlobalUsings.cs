@@ -1,0 +1,9 @@
+﻿global using gameProject.Data;
+global using gameProject.Service;
+global using gameProject.Settings;
+global using gameProject.viewModels;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.AspNetCore.Mvc.Rendering;
+global using Microsoft.EntityFrameworkCore;
+global using System.ComponentModel.DataAnnotations;
+global using gameProject.Attribute;
